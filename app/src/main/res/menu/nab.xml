@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Text"
+        android:icon="@drawable/text"
+        android:id="@+id/mtxt"/>
+    <item android:title="Capture"
+        android:icon="@drawable/cap"
+        android:id="@+id/mcap"/>
+    <item android:title="History"
+        android:icon="@drawable/his"
+        android:id="@+id/mhis"/>
+</menu>
